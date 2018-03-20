@@ -1,6 +1,8 @@
 {
   "name": "currency",
   "version": "0.0.0",
+  "author": "Lex",
+  "descrption": "Very simple currency convrter",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
